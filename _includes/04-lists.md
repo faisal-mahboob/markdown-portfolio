@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. A good bass that you feel from songs
+2. Nature
+3. Peaceful days
