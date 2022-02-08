@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I like hw **HTML and CSS** are relative easy to use. It took me a *few months* though to learn it because I like to take it slow. 😺
